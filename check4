@@ -1,0 +1,9 @@
+Script started on 2020년 10월 19일 (월) 오전 10시 31분 43초
+[?1034hnetpa15@~/ 406$ cd prog
+netpa15@~/prog/ 407$ ./udp_echocli 117.17.142.162 4015
+입력: netpa15
+netpa15
+
+netpa15@~/prog/ 408$ exit
+
+Script done on 2020년 10월 19일 (월) 오전 10시 32분 21초

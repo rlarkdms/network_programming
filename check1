@@ -1,0 +1,25 @@
+Script started on 2020년 10월 03일 (토) 오후 11시 46분 49초
+[?1034hnetpa15@~/ 168$ cd prog
+netpa15@~/prog/ 169$ ./open_sc[Kocket
+etc/passwd's file descrriptor =3
+stream socket descriptor=4
+datagram socket descriptor=5
+/etc/host's file descriptor =6
+netpa15@~/prog/ 170$ ./byte_order
+UDP 에코 포트번호(네트워크 순서): 1792 
+UDP 에코 포트번호(호스트 순서): 7 
+netpa15@~/prog/ 171$ ./ascil_ip 201[K3.249.123.213
+* 입력한 dotted decimal IP 주소: 203.249.123.213
+inet_pton(203.249.123.213) =0xD57BF9CB
+inet_ntop(0xD57BF9CB) =203.249.123.213
+netpa15@~/prog/ 172$ ./get_hostent info.skunic[Kv.ac.kr
+호스트 이용:info.skuniv.ac.kr
+호스트 주소타입 번호 2
+호스트 주소의 길이 4 바이트
+IP주소(1번째) :117.17.142.201
+호스트 별명(1 번째) :info 
+netpa15@~/prog/ 173$ ./get_host_byaddr 117.17.142.201
+호스트 이름:info.skuniv.ac.kr
+netpa15@~/prog/ 174$ exit
+
+Script done on 2020년 10월 03일 (토) 오후 11시 48분 09초

@@ -1,0 +1,431 @@
+# 이 viminfo 파일은 빔이 만든 것입니다 Vim 7.4.
+# 조심만 한다면 고칠 수도 있습니다!
+
+# 이 파일이 저장되었을 때의 'encoding'의 값
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~H
+# Last Search Pattern:
+~MSle0~/ 
+
+# 명령 줄 히스토리 (새것부터 오래된 것 순):
+:wq
+:q!
+:q
+:s
+:.!
+:wq:;권세희
+:ㅈ
+:;:
+
+# 찾을 문자열 히스토리 (새것부터 오래된 것 순):
+?? 
+
+# 표현 히스토리 (새것부터 오래된 것 순):
+
+# 입력 줄 히스토리 (새것부터 오래된 것 순):
+
+# 입력 줄 히스토리 (새것부터 오래된 것 순):
+
+# 레지스터:
+""0	LINE	0
+	
+	if( (pid=fork())>0)
+"-	CHAR	0
+	n
+
+# 파일 마크:
+'0  92  0  ~/prog/multicast.c
+'1  183  0  ~/prog/multicast.c
+'2  274  0  ~/prog/multicast.c
+'3  55  13  ~/prog/tcp_chatserv_nonb.c
+'4  155  0  ~/prog/tcp_chat_nonb.c
+'5  309  0  ~/prog/tcp_chat_nonb.c
+'6  462  0  ~/prog/tcp_chat_nonb.c
+'7  617  0  ~/prog/tcp_chat_nonb.c
+'8  773  0  ~/prog/tcp_chat_nonb.c
+'9  18  0  ~/proj/aa.c
+
+# 점프목록 (새것이 먼저):
+-'  92  0  ~/prog/multicast.c
+-'  1  0  ~/prog/multicast.c
+-'  183  0  ~/prog/multicast.c
+-'  274  0  ~/prog/multicast.c
+-'  55  13  ~/prog/tcp_chatserv_nonb.c
+-'  1  0  ~/prog/tcp_chatserv_nonb.c
+-'  155  0  ~/prog/tcp_chat_nonb.c
+-'  1  0  ~/prog/tcp_chat_nonb.c
+-'  309  0  ~/prog/tcp_chat_nonb.c
+-'  462  0  ~/prog/tcp_chat_nonb.c
+-'  617  0  ~/prog/tcp_chat_nonb.c
+-'  773  0  ~/prog/tcp_chat_nonb.c
+-'  18  0  ~/proj/aa.c
+-'  1  0  ~/proj/aa.c
+-'  91  18  ~/prog/tcp_chatserv1.c
+-'  41  7  ~/prog/tcp_chatserv1.c
+-'  86  0  ~/prog/tcp_chatserv1.c
+-'  100  0  ~/prog/tcp_chatserv1.c
+-'  62  22  ~/prog/tcp_talkcli1.c
+-'  57  1  ~/prog/tcp_talkcli1.c
+-'  59  1  ~/prog/tcp_talkcli1.c
+-'  60  30  ~/prog/tcp_talkcli1.c
+-'  89  0  ~/prog/tcp_talkcli1.c
+-'  90  19  ~/prog/tcp_chatserv1.c
+-'  39  0  ~/prog/tcp_chatserv1.c
+-'  56  55  ~/prog/tcp_chatserv1.c
+-'  94  52  ~/prog/tcp_chatserv1.c
+-'  1  0  ~/tcp_chatserv1.c
+-'  134  0  ~/prog/tcp_chatserv1.c
+-'  1  0  ~/prog/tcp_talkcli1.c
+-'  1  0  ~/prog/tcp_chatserv1.c
+-'  62  16  ~/prog/tcp_talkcli_test.c
+-'  63  1  ~/prog/tcp_talkcli_test.c
+-'  79  0  ~/prog/tcp_chatserv_test.c
+-'  78  0  ~/prog/tcp_chatserv_test.c
+-'  76  92  ~/prog/tcp_chatserv_test.c
+-'  42  0  ~/prog/tcp_chatserv_test.c
+-'  1  0  ~/prog/tcp_chatserv_test.c
+-'  13  0  ~/prog/tcp_talkcli_test.c
+-'  74  1  ~/prog/tcp_talkcli_test.c
+-'  1  0  ~/prog/tcp_talkcli_test.c
+-'  82  0  ~/prog/tcp_chatcli.c
+-'  1  0  ~/prog/tcp_chatcli.c
+-'  129  0  ~/prog/tcp_chatserv.c
+-'  1  0  ~/prog/tcp_chatserv.c
+-'  90  0  ~/prog/udp_talkserv2.c
+-'  1  0  ~/prog/udp_talkserv2.c
+-'  179  0  ~/prog/udp_talkserv2.c
+-'  266  0  ~/prog/udp_talkserv2.c
+-'  353  0  ~/prog/udp_talkserv2.c
+-'  440  0  ~/prog/udp_talkserv2.c
+-'  527  0  ~/prog/udp_talkserv2.c
+-'  536  0  ~/prog/udp_talkserv2.c
+-'  627  0  ~/prog/udp_talkserv2.c
+-'  32  35  ~/prog/udp_talkcli.c
+-'  10  0  ~/prog/udp_talkcli.c
+-'  1  0  ~/prog/udp_talkvcli.c
+-'  40  18  ~/prog/udp_talkserv.c
+-'  39  7  ~/prog/udp_talkserv.c
+-'  36  15  ~/prog/udp_talkserv.c
+-'  77  15  ~/prog/udp_talkserv.c
+-'  57  23  ~/prog/udp_talkserv.c
+-'  1  0  ~/prog/upd_talkserv.c
+-'  1  0  ~/prog/udp_talkserv1.c
+-'  87  0  ~/prog/udp_talkserv1.c
+-'  64  0  ~/prog/udp_talkcli1.c
+-'  6  0  ~/prog/udp_talkcli1.c
+-'  1  0  ~/prog/udp_talkcli1.c
+-'  251  0  ~/prog/udp_talkserv1.c
+-'  1  0  ~/prog/udp_talkserv.c
+-'  1  0  ~/prog/udp_talkcli.c
+-'  95  0  ~/prog/udp_talkcli.c
+-'  291  699  ~/prog/udp_talkcli.c
+-'  386  0  ~/prog/udp_talkcli.c
+-'  479  0  ~/prog/udp_talkcli.c
+-'  79  1  ~/prog/tcp_talkcli.c
+-'  80  0  ~/prog/tcp_talkcli.c
+-'  85  0  ~/prog/tcp_talkcli.c
+-'  1  0  ~/prog/tcp_talkcli.c
+-'  168  0  ~/prog/tcp_talkcli.c
+-'  250  0  ~/prog/tcp_talkcli.c
+-'  330  0  ~/prog/tcp_talkcli.c
+-'  31  0  ~/prog/tcp_echocli.c
+-'  1  0  ~/prog/tcp_talkserv.c
+-'  179  0  ~/prog/tcp_talkserv.c
+-'  190  0  ~/prog/tcp_talkserv.c
+-'  227  0  ~/prog/tcp_talkserv.c
+-'  390  0  ~/prog/tcp_talkserv.c
+-'  494  1  ~/prog/tcp_talkserv.c
+-'  567  64  ~/prog/tcp_talkserv.c
+-'  35  0  ~/prog/fork_test.c
+-'  1  0  ~/prog/fork_test.c
+-'  68  0  ~/prog/fork_test.c
+-'  101  0  ~/prog/fork_test.c
+-'  134  0  ~/prog/fork_test.c
+-'  165  0  ~/prog/fork_test.c
+-'  174  4  ~/prog/fork_test.c
+-'  64  0  ~/prog/mid_daytime.c
+
+# 파일내의 마크 히스토리 (새것부터 오래된 순):
+
+> ~/prog/multicast.c
+	"	92	0
+	^	92	0
+	.	91	0
+	+	273	0
+	+	182	0
+	+	91	0
+
+> ~/prog/tcp_chatserv_nonb.c
+	"	55	13
+	^	55	14
+	.	55	13
+	+	55	13
+
+> ~/prog/tcp_chat_nonb.c
+	"	155	0
+	^	155	1
+	.	155	0
+	+	773	0
+	+	617	0
+	+	462	0
+	+	309	0
+	+	155	0
+
+> ~/proj/aa.c
+	"	18	0
+	^	18	0
+	.	18	0
+	+	18	0
+	+	1	0
+	+	18	0
+
+> ~/prog/tcp_chatserv1.c
+	"	91	18
+	^	91	19
+	.	91	18
+	+	56	55
+	+	89	70
+	+	87	18
+	+	94	52
+	+	95	0
+	+	87	0
+	+	56	55
+	+	57	35
+	+	56	57
+	+	87	0
+	+	95	0
+	+	56	73
+	+	65	56
+	+	66	0
+	+	94	44
+	+	85	21
+	+	90	19
+	+	56	55
+	+	90	38
+	+	95	0
+	+	100	18
+	+	57	0
+	+	41	8
+	+	42	0
+	+	41	25
+	+	91	0
+	+	86	18
+	+	41	27
+	+	86	0
+	+	91	18
+	a	41	7
+
+> ~/prog/tcp_talkcli1.c
+	"	62	22
+	^	57	21
+	.	58	0
+	+	60	28
+	+	60	44
+	+	59	27
+	+	60	31
+	+	60	28
+	+	60	26
+	+	57	42
+	+	59	26
+	+	61	0
+	+	60	28
+	+	58	0
+
+> ~/tcp_chatserv1.c
+	"	1	0
+
+> ~/prog/tcp_talkcli_test.c
+	"	62	16
+	^	62	17
+	.	62	16
+	+	23	11
+	+	21	95
+	+	11	18
+	+	27	0
+	+	30	32
+	+	27	0
+	+	28	36
+	+	30	0
+	+	29	7
+	+	30	7
+	+	29	8
+	+	28	15
+	+	49	23
+	+	51	23
+	+	56	36
+	+	60	33
+	+	60	52
+	+	85	0
+	+	72	37
+	+	13	26
+	+	14	0
+	+	21	50
+	+	61	7
+	+	14	38
+	+	15	22
+	+	22	0
+	+	56	25
+	+	49	17
+	+	51	17
+	+	71	25
+	+	59	18
+	+	15	20
+	+	59	32
+	+	75	25
+	+	80	5
+	+	81	17
+	+	82	15
+	+	60	14
+	+	61	16
+	+	62	16
+
+> ~/prog/tcp_chatserv_test.c
+	"	79	0
+	^	79	1
+	.	79	0
+	+	47	59
+	+	48	0
+	+	58	19
+	+	59	15
+	+	76	53
+	+	42	17
+	+	76	58
+	+	79	0
+	+	76	96
+	+	79	0
+	+	76	59
+	+	78	0
+	+	77	8
+	+	79	0
+
+> ~/prog/tcp_chatcli.c
+	"	82	0
+	^	82	1
+	.	82	0
+	+	82	0
+
+> ~/prog/tcp_chatserv.c
+	"	129	0
+	^	129	1
+	.	129	0
+	+	129	0
+
+> ~/prog/udp_talkserv2.c
+	"	90	0
+	^	90	1
+	.	90	0
+	+	706	0
+	+	705	0
+	+	636	0
+	+	634	0
+	+	632	0
+	+	629	0
+	+	627	0
+	+	618	0
+	+	617	0
+	+	545	0
+	+	543	0
+	+	541	0
+	+	538	0
+	+	536	0
+	+	527	0
+	+	440	0
+	+	353	0
+	+	266	0
+	+	179	0
+	+	90	0
+
+> ~/prog/udp_talkcli.c
+	"	32	35
+	^	10	0
+	.	10	0
+	+	479	0
+	+	386	0
+	+	292	699
+	+	196	0
+	+	87	0
+	+	86	0
+	+	19	0
+	+	17	0
+	+	15	0
+	+	12	0
+	+	10	0
+
+> ~/prog/udp_talkvcli.c
+	"	1	0
+
+> ~/prog/udp_talkserv.c
+	"	40	18
+	^	40	21
+	.	40	20
+	+	70	0
+	+	11	24
+	+	15	0
+	+	82	0
+	+	81	0
+	+	12	0
+	+	13	11
+	+	40	20
+	+	40	20
+
+> ~/prog/upd_talkserv.c
+	"	1	0
+
+> ~/prog/udp_talkserv1.c
+	"	1	0
+	^	1	0
+	.	10	0
+	+	324	0
+	+	323	0
+	+	257	0
+	+	255	0
+	+	253	0
+	+	251	0
+	+	242	0
+	+	241	0
+	+	175	0
+	+	173	0
+	+	171	0
+	+	169	0
+	+	160	0
+	+	159	0
+	+	92	0
+	+	90	0
+	+	89	0
+	+	87	0
+	+	78	0
+	+	77	0
+	+	13	0
+	+	10	0
+
+> ~/prog/udp_talkcli1.c
+	"	64	0
+	^	6	1
+	.	71	0
+	+	71	0
+
+> ~/prog/tcp_talkcli.c
+	"	79	1
+	^	79	2
+	.	79	1
+	+	330	0
+	+	250	0
+	+	168	0
+	+	85	0
+	+	79	0
+	+	79	16
+	+	79	16
+	+	80	7
+	+	79	1
+
+> ~/prog/tcp_echocli.c
+	"	31	0
+	^	31	28
+	.	31	27
+	+	178	0
+	+	119	0
+	+	60	0
+	+	31	27

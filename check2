@@ -1,0 +1,17 @@
+Script started on 2020년 10월 12일 (월) 오전 11시 52분 52초
+[?1034hnetpa15@~/ 373$ cd prog
+netpa15@~/prog/ 374$ ./mydaytime 129.6.15.28
+
+59134 20-10-12 02:53:09 21 0 0 605.0 UTC(NIST) * 
+netpa15@~/prog/ 375$ ./tcp_echocli 117.17.142.162
+입력: netpa15
+수신: netpa15
+netpa15@~/prog/ 376$ ./tcp_echocli1 127.0.0.1 3015
+입력: netpa15
+수신: netpa15
+netpa15@~/prog/ 377$ ./tcp_echocli2 css.skuniv.ac.kr 3015
+입력: netpa15
+수신: netpa15
+netpa15@~/prog/ 378$ exit
+
+Script done on 2020년 10월 12일 (월) 오전 11시 54분 35초

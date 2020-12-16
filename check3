@@ -1,0 +1,9 @@
+Script started on 2020년 10월 19일 (월) 오전 09시 14분 42초
+[?1034hnetpa15@~/ 404$ cd prog
+netpa15@~/prog/ 405$ ./tcp_echocli3 css.skuniv.ac.kr 5015
+Server IP:117.17.142.162
+입력: 2017301004
+수신: 2017301004
+netpa15@~/prog/ 406$ exit
+
+Script done on 2020년 10월 19일 (월) 오전 09시 15분 23초
