@@ -1,480 +1,3 @@
-./mydaytime 129.6.15.28
-./tcp_echoserv 3015
-cd ..
-ls
-script check2
-ls
-mail netpa15 < check2
-mail netpa15 <check2
-cd prog
-ls
-./tcp_echocli 117.17.142.162
-./tcp_echocli1 127.0.0.1 3015
-./tcp_echocli2 css.skuniv.ac.kr 3015
-vi tcp_echocli.c
-cc tcp_echocli.c -o tcp_echocli
-./tcp_echocli 117.17.142.162
-./tcp_echoserv 3015
-history
-ls
-mail netpa00 < check2
-history
-mail netpa00 <check2
-history
-cd prog
-./tcp_echocli3 css.skuniv.ac.kr 5015
-cd prog
-./udp_echocli 117.17.142.162 4015
-ls
-cd prog
-ls
-./tcp_echoserv 5015
-ps
-cat tcp_echocli3.c
-ls
-cp -p tcp_echocli.c udp_echocli.c
-ls
-vi udp_echocli.c
-rm udp_echocli.c
-ls
-vi udp_echocli.c
-ls
-cc udp_echocli.c -o udp_echocli
-ls
-rm udp_echocli.c
-vi udp_echocli.c
-cc udp_echocli.c -o udp_echocli
-rm udp_echocli.c
-vi udp_echocli.c
-cc udp_echocli.c -o udp_echocli
-rm udp_echocli.c
-vi udp_echocli.c
-cc udp_echocli.c -o udp_echocli
-ls
-vi udp_echoserv.c
-cc udp_echoserv.c -o udp_echoserv
-vi udp_echoserv.c
-cc udp_echoserv.c -o udp_echoserv
-ls
-udp_echocli 117.17.142.162 4015
-./udp_echocli 117.17.142.162 4015
-cd ..
-ls
-script check4
-ls
-mail netpa00 < check4
-cat check2
-lls
-ls
-cat check4
-cat check2
-cat check3
-logout
-ls
-cd prog
-ls
-cat tcp_echocli1
-ls
-cat tcp_tchocli1.c
-cat tcp_echocli1.c
-ls
-cp -p tcp_echocli2.c tcp_echocli3.c
-ls
-vi tcp_echocli3.c
-cc tcp_echocli3.c -o tcp_echocli3
-./tcp_echocli3 css.skuniv.ac.kr 5015
-cd ..
-ls
-script check3
-mail netpa00 < check3
-ls
-cat check3
-cd prog
-ls
-cat tcp_echocli3.c
-cd ..
-ls
-cd temp
-ls
-cd ..
-ls
-rmdir -R temp
-rmdir temp
-cd temp
-ls
-rm example
-ls
-cd ..
-ls
-rmdir temp
-ls
-ps -eaf | grep netpa00 
-ps
-ls
-cd ex
-ls
-rm name1
-rm name2
-ls
-cd ..
-rmdir ec
-rmdir ex
-ls
-ll
-ls
-rm unix1
-rm unix2
-ls
-cd prog
-ls
-./udp_echocli 117.17.142.162 4015
-./udp_echoserv 4015
-logout
-ls
-cd prog
-ls
-passwd
-ls
-cp -p tcp_echoserv.c tcp_echoservtest.c
-ls
-vi txechoservtest.c
-vi tcp_echoservtest.c
-cc tcp_echoservtest.c -o echoservtest
-ls
-./echoservtest 3015
-ps
-ps -eaf | grep netpa15
-ls
-vi tcp_echoservtest.c
-cc tcp_echoservtest.c -o echoservtest
-./echoservtest 3015
-vi tcp_echoservtest.c
-cc tcp_echoservtest.c -o echoservtest
-./echoservtest 3015
-vi tcp_echoservtest.c
-cc tcp_echoservtest.c -o echoservtest
-./echoservtest 3015
-ps
-./echoservtest 3015
-ls
-./udp_echoserv 3015
-./tcp_echoserv 3015
-ls
-cd prog
-ls
-./tcp_echocli 127.0.0.1
-ls
-vi udp_echoservtest.c
-cc udp_echoservtest.c -o udp_echoservtest
-cat tcp_echocli2.c
-vi udp_echoservtest.c
-rm udp_echoservtest.c
-vi udp_echoservtest.c
-cc udp_echoservtest.c -o udp_echoservtest
-vi udp_echoservtest.c
-cc udp_echoservtest.c -o udp_echoservtest
-./udp_echoservtest css.skuniv.ac.kr 3015
-vi tcp_echocliagain.c
-cc tcp_echocliagain.c -o tcp_echocliagain
-rm tcp_echocliagain.c
-vi tcp_echocliagain.c
-cc tcp_echocliagain.c -o tcp_echocliagain
-./tcp_echocliagain css.skuniv.ac.kr 3015
-rm tcp_echocliagain.c
-vi tcp_echocliagain.c
-cc tcp_echocliagain.c -o tcp_echocliagain
-./tcp_echocliagain css.skuniv.ac.kr 3015
-cat prog/mid_daytime.c
-prog/mid_daytime css.skuniv.ac.kr 9999
-ls
-cdnprog
-cd prog
-cd ..
-ls
-cat check1
-cat check2
-cd prog
-cp mydaytime.c mid_daytime.c
-ls
-rm mid_daytime.c
-vi mid_daytime.c
-cc mid_daytime.c -o mid_daytime
-rm mid_daytime.c
-vi mid_daytime.c
-cc mid_daytime.c -o mid_daytime
-./mid_daytime css.skuniv.ac.kr 9999
-rm mid_daytime.c
-vi mid_daytime.c
-cc mid_daytime.c -o mid_daytime
-rm mid_daytime.c
-vi mid_daytime.c
-cc mid_daytime.c -o mid_daytime
-ls
-cc mid_daytime.c -o mid_daytime
-rm mid_daytime.c
-vi mid_daytime.c
-cc mid_daytime.c -o mid_daytime
-./mid_daytime css.skuniv.ac.kr 9999
-rm mid_daytime.c
-vi mid_daytime.c
-cc mid_daytime.c -o mid_daytime
-./mid_daytime css.skuniv.ac.kr 9999
-rm mid_daytime.c
-vi mid_daytime.c
-cc mid_daytime.c -o mid_daytime
-./mid_daytime css.skuniv.ac.kr 9999
-cd ..
-ls
-script mid
-ls
-mail netpa00 < mid
-ls
-cd prog
-ls
-./udp_echoserv css.skuniv.ac.kr 9999
-./udp_echoserv css.skuniv.ac.kr
-ls
-cat mid
-history
-ls
-cd prog
-ls
-tcp_echocli.c
-vi tcp_echocli.c
-vi tcp_talkcli.c
-cc tcp_talkcli.c -o tctalkcli
-./talkcli 117.17.142.166 3015
-cc tcp_talkcli.c -o tcp_talkcli
-./tcp_talkcli 127.0.0.1 3015
-./tcp_talkcli 117.17.142.162 3015
-./tcp_talkcli 117.17.142.162 6015
-rm tcp_talkcli.c
-vi tcp_talkcli.c
-cc tcp_talkcli.c -o tcp_talkcli
-./tcp_talkcli 117.17.142.162 6015
-./tcp_talkcli 117.17.142.162 3015
-rm tcp_talkcli.c
-vi tcp_talkcli.c
-cc tcp_talkcli.c -o tcp_talkcli
-./tcp_talkcli 117.17.142.162 3015
-ls
-rm tcp_talkcli.c
-vi tcp_talkcli.c
-cc tcp_talkcli.c -o tcp_talkcli
-./tcp_talkcli 117.17.142.162 3015
-vi tcp_talkcli.c
-cc tcp_talkcli.c -o tcp_talkcli
-./tcp_talkcli 117.17.142.162 3015
-ls
-cd prog
-ls
-vi fork_test.c
-cc fork_test.c -o fork_test
-rm fork_test.c
-vi fork_test.c
-cc fork_test.c -o fork_test
-rm fork_test.c
-vi fork_test.c
-cc fork_test.c -o fork_test
-rm fork_test.c
-vi fork_test.c
-cc fork_test.c -o fork_test
-rm fork_test.c
-vi fork_test.c
-cc fork_test.c -o fork_test
-rm fork_test.c
-vi fork_test.c
-cc fork_test.c -o fork_test
-./fork_test
-vi tcp_talkserv.c
-cc tcp_talkserv.c -o tcp_talkserv
-rm tcp_talkserv.c
-vi tcp_talkserv.c
-cc tcp_talkserv.c -o tcp_talkserv
-rm tcp_talkserv.c
-vi tcp_talkserv.c
-cc tcp_talkserv.c -o tcp_talkserv
-rm tcp_talkserv.c
-vi tcp_talkserv.c
-cc tcp_talkserv.c -o tcp_talkserv
-./tcp_talkserv 3015
-rm tcp_talkserv.c
-vi tcp_talkserv.c
-cc tcp_talkserv.c -o tcp_talkserv
-vi tcp_talkserv.c
-cc tcp_talkserv.c -o tcp_talkserv
-./tcp_talkserv 3015
-rm tcp_talkserv.c
-vi tcp_talkserv.c
-cc tcp_talkserv.c -o tcp_talkserv
-./tcp_talkserv 3015
-ps -eaf|grb
-ps -eaf|greb
-ps -eaf | grep netpa15
-./tcp_talkserv 3015
-./tcp_talkserv 6015
-./tcp_talkserv 3015
-ls
-./tcp_talkserv 3015
-ps -eaf | greb netpa15
-ps -eaf | grep netpa15
-kill -9 29971
-kill -9 31296
-ps -eaf | grep netpa15
-./tcp_talkserv 3015
-ps -eaf | grep netpa15
-./tcp_talkserv 3015
-kill -9 32548
-ls
-./tcp_talkserv 3015
-
-./tcp_talkserv 3015
-ps -eaf | grep netpa15
-kill -9 796
-./tcp_talkserv 3015
-ps -eaf | grep netpa15
-kill -9 1209
-./tcp_talkserv 3015
-cat prog/tcp_talkserv.c
-./prog/tcp_talkcli 117.17.142.162 6015
-ls -l prog/tcp_talk*
-cd prog
-ls
-rm talkcli
-ls
-./tcp_talkcli 117.17.142.162 6015
-ls -l prog/tcp_talk*
-ls -l
-ls -l prog
-cd ..
-ls -l prog/
-ls -l prog/tcp_talk*
-cd prog
-ls -l prog/tcp_talk*
-ps -eaf | grep netpa15
-kill -9 14663
-ps -eaf | grep netpa15
-cd ..
-ls
-script check5
-mail netpa00 < check5
-ls
-shutdonw -h now
-ls
-cd prog
-ls
-./tcp_talkserv 6015
-logout
-ls
-cd prog
-ls
-vi tcp_talkcli.c
-cc tcp_talkcli.c tcp_talkcli2
-cc tcp_talkcli.c -o tcp_talkcli2
-./tcp_talkcli2
-./tcp_talkcli2 117.17.142.162 6015
-logout
-cd prog
-ls
-./tcp_talkserv 6015
-ps -eaf | grep netpa15
-kill -9 1899
-./tcp_talkserv 6015
-ps -eaf | grep netpa15
-kill -9 17783
-./tcp_talkserv 6015
-logout
-cd prog
-ls
-vi tcp_talkcli.c
-cc tcp_talkcli.c -o tcp_talkclitest
-./tcp_talkclitest 117.17.142.162 3015
-ps -eaf | grep netpa15
-kill -9 21987
-kill -9 24600
-vi tcp_talkcli.c
-logout
-ls
-cd prog
-ls
-./tcp_talkserv
-./tcp_talkserv 3015
-logout
-cd prog
-ls
-tcp_talkserv
-./tcp_talkserv 6015
-cd prog
-ls
-./tcp_talkcli 117.17.142.162 6015
-ls
-cd prog
-ls
-./udp_talkcli 127.0.0.1 3015
-./udp_talkcli 3015
-mv udp_talkcli udp_talkserv
-mv udp_talkcli.c udp_talkserv.c
-./udp_talkcli 127.0.0.1 3015
-logout
-ls
-cd prog
-ls
-vi udp_talkcli.c
-cc udp_talkcli.c -o udp_talkcli
-rm udp_talkcli.c 
-vi udp_talkcli.c
-cc udp_talkcli.c -o udp_talkcli
-rm udp_talkcli.c 
-vi udp_talkser.c
-cc udp_talkcli.c -o udp_talkcli
-vi udp_talkserv.c
-cc udp_talkserv.c -o udp_talkserv
-ls
-udp_talkser
-./udp_talkserv 3015
-./udp_talkserv 127.0.0.1 3015
-ls
-mv udp_talkserv udp_talkcli1
-ls
-mv udp_talkcli1 udp_talkcli
-mv udp_talkserv.c udp_talkcli1.c
-mv udp_talkcli1.c udp_talkcli.c
-ls
-./udp_talkser 3015
-./udp_talkserv 3015
-logout
-cat prog/udp_talkserv.c
-cat prog/udp_talkcli.c
-prog/udp_talkcli./prog/udp_talkcli 117.17.142.162 8015
-prog/./udp_talkcli 117.17.142.162 8015
-ls -l prog/udp_talk*
-cd prog
-ls
-./udp_talkcli1 127.0.0.1 3015
-ls
-./udp_talkcli1 127.0.0.1 3015
-ls
-mv udp_talkcli.c upd_talkcli_test.c
-mv udp_talkcli upd_talkcli_tea
-mv udp_talkcli1.c upd_talkcli.c
-mv upd_talkcli.c udp_talkcli.c
-mv udp_talkcli1 udp_talkcli
-ls
-./udp_talkcli 127.0.0.1 3015
-./udp_talkserv 8015
-./udp_talkcli 127.0.0.1 3015
-ls
-ps
-cd prog
-ls
-vi udp_talkserv1.c 
-cc udp_talkserv1.c -o udp_talkserv1
-vi udp_talkcli.c
-vi udp_talkcli1.c
-cc udp_talkcli1.c -o udp_talkcli1
-./udp_talkserv1 3015
-ps -eaf | grep netpa15
-rm udp_talkserv1.c
 vi udp_talkcli1.c
 vi udp_talkserv1.c
 cc udp_talkserv1.c -o udp_talkserv1
@@ -998,3 +521,480 @@ ls -l prog
 ps
 ps aux
 jobs
+ls
+cd prog
+ls
+git remote -v
+pip install git
+ls
+cd ..
+ls
+git init
+git remote add origin "https://github.com/rlarkdms/network_programming.git"
+git add-A
+git add -A
+git commit -m "1st commit"
+git push origin
+git push --set-upstream origin master
+git push origin
+git push --set-upstream origin master
+ls
+cd prog
+ls
+./udp_talkserv 8015
+ls
+cd prog
+./udp_talkcli 127.0.0.1 8015
+cd
+ls
+cd prog
+ls
+./tcp_talkserv 3015
+./tcp_talkcli 127.0.0.1 3015
+cd prog
+./tcp_talkcli 127.0.0.1 3015
+ls
+cd proj
+cd ..
+ls
+cd netpa01
+cd ..
+cd
+ls
+cd proj
+ls
+rm aa.c
+vi tcp_chat.c
+cc tcp_chat.c -o tcp_chat
+cd ..
+cd prog
+ls
+cat tcp_chatserv_nonb.c
+cd ..
+ls
+cd proj
+ls
+cat tcp_chatserv_nonb.c
+cc tcp_chat.c -o tcp_chat
+rm tcp_chat.c 
+vi tcp_chat.c
+cc tcp_chat.c -o tcp_chat
+rm tcp_chat.c 
+vi tcp_chat.c
+cc tcp_chat.c -o tcp_chat
+vi projcli.c
+cc projcli.c -o projcli
+ls
+rm projcli.c
+vi projcli.c
+cc projcli.c -o projcli
+ls
+rm projcli.c
+vi projcli.c
+ls
+cc projcli.c -o projcli
+./tcp_chat 3015
+ls
+rm tcp_chat.c
+vi projserv.c
+cc projserv.c -o projserv
+rm projserv.c
+vi projserv.c
+cc projserv.c -o projserv
+./projserv 3015
+rm projserv.c
+vi projserv.c
+cc projserv.c -o projserv
+./projserv 3015
+rm projserv.c
+vi projserv.c
+cc projserv.c -o projserv
+./projserv 3015
+./projserv 4015
+rm projserv.c
+vi projserv.c
+cc projserv.c -o projserv
+rm projserv.c
+vi projserv.c
+cc projserv.c -o projserv
+rm projserv.c
+vi projserv.c
+cc projserv.c -o projserv
+rm projserv.c
+vi projserv.c
+cc projserv.c -o projserv
+rm projserv.c
+vi projserv.c
+cc projserv.c -o projserv
+rm projserv.c
+vi projserv.c
+cc projserv.c -o projserv
+rm projserv.c
+vi projserv.c
+cc projserv.c -o projserv
+rm projserv.c
+vi projserv.c
+cc projserv.c -o projserv
+rm projserv.c
+vi projserv.c
+cc projserv.c -o projserv
+rm projserv.c
+vi projserv.c
+cc projserv.c -o projserv
+rm projserv.c
+vi projserv.c
+cc projserv.c -o projserv
+./projserv 3015
+rm projserv.c
+vi projserv.c
+cc projserv.c -o projserv
+./projserv 3015
+./projserv 4015
+rm projserv.c
+vi projserv.c
+cc projserv.c -o projserv
+./projserv 3015
+rm projserv.c
+vi projserv.c
+cc projserv.c -o projserv
+./projserv 3015
+./projserv 4015
+rm projserv.c
+vi projserv.c
+cc projserv.c -o projserv
+rm projserv.c
+vi projserv.c
+cc projserv.c -o projserv
+rm projserv.c
+vi projserv.c
+cc projserv.c -o projserv
+./projserv 3015
+rm projserv.c
+vi projserv.c
+cc projserv.c -o projserv
+rm projserv.c
+vi projserv.c
+cc projserv.c -o projserv
+rm projserv.c
+vi projserv.c
+cc projserv.c -o projserv
+./projserv 3015
+rm projserv.c
+vi projserv.c
+cc projserv.c -o projserv
+./projserv 3015
+rm projserv.c
+vi projserv.c
+cc projserv.c -o projserv
+./projserv 3015
+./projserv 4015
+rm projserv.c
+vi projserv.c
+cc projserv.c -o projserv
+./projserv 3015
+rm projserv.c
+vi projserv.c
+cc projserv.c -o projserv
+rm projserv.c
+vi projserv.c
+cc projserv.c -o projserv
+./projserv 3015
+rm projserv.c
+vi projserv.c
+cc projserv.c -o projserv
+rm projserv.c
+vi projserv.c
+cc projserv.c -o projserv
+./projserv 3015
+vi projserv.c
+rm projserv.c
+vi projserv.c
+cc projserv.c -o projserv
+./projserv 3015
+./projserv 4015
+rm projserv.c
+vi projserv.c
+cc projserv.c -o projserv
+rm projserv.c
+vi projserv.c
+cc projserv.c -o projserv
+rm projserv.c
+vi projserv.c
+cc projserv.c -o projserv
+./projserv 3015
+vi projserv.c
+cc projserv.c -o projserv
+./projserv 3015
+./projserv 4015
+rm projserv.c
+vi projserv.c
+cc projserv.c -o projserv
+./projserv 4015
+rm projserv.c
+vi projserv.c
+cc projserv.c -o projserv
+rm projserv.c
+vi projserv.c
+cc projserv.c -o projserv
+./projserv 4015
+rm projserv.c
+vi projserv.c
+cc projserv.c -o projserv
+./projserv 4015
+rm projserv.c
+vi projserv.c
+cc projserv.c -o projserv
+./projserv 4015
+rm projserv.c
+vi projserv.c
+cc projserv.c -o projserv
+rm projserv.c
+vi projserv.c
+cc projserv.c -o projserv
+rm projserv.c
+vi projserv.c
+cc projserv.c -o projserv
+./projserv 4015
+rm projserv.c
+vi projserv.c
+cc projserv.c -o projserv
+./projserv 4015
+./projserv 3015
+rm projserv.c
+vi projserv.c
+cc projserv.c -o projserv
+./projserv 3015
+./projserv 4015
+rm projserv.c
+vi projserv.c
+rm projserv.c
+vi projserv.c
+cc projserv.c -o projserv
+./projserv 4015
+rm projserv.c
+vi projserv.c
+cc projserv.c -o projserv
+./projserv 4015
+./projserv 3015
+rm projserv.c
+vi projserv.c
+cc projserv.c -o projserv
+./projserv 3015
+./projserv 4015
+rm projserv.c
+vi projserv.c
+cc projserv.c -o projserv
+./projserv 4015
+./projserv 3015
+rm projserv.c
+vi projserv.c
+cc projserv.c -o projserv
+./projserv 3015
+ps -auf |grep netpa15
+kill -9 25742
+./projserv 4015
+rm projserv.c
+vi projserv.c
+cc projserv.c -o projserv
+./projserv 4015
+ps -auf |grep netpa15
+ps -aux |grep netpa15
+./projserv 4015
+./projserv 3015
+rm projserv.c
+vi projserv.c
+cc projserv.c -o projserv
+./projserv 3015
+./projserv 4015
+rm projserv.c
+vi projserv.c
+cc projserv.c -o projserv
+./projserv 4015
+./projserv 3015
+rm projserv.c
+vi projserv.c
+cc projserv.c -o projserv
+./projserv 4015
+ls
+cd proj
+ls
+./projserv 3015
+rm projserv.c
+vi projserv.c
+cc projserv.c -o projserv
+rm projserv.c
+vi projserv.c
+cc projserv.c -o projserv
+./projserv 3015
+rm projserv.c
+vi projserv.c
+cc projserv.c -o projserv
+rm projserv.c
+vi projserv.c
+cc projserv.c -o projserv
+./projserv 3015
+rm projserv.c
+vi projserv.c
+cc projserv.c -o projserv
+rm projserv.c
+vi projserv.c
+cc projserv.c -o projserv
+./projserv 3015
+./projserv 4015
+rm projserv.c
+vi projserv.c
+cc projserv.c -o projserv
+./projserv 3015
+rm projserv.c
+vi projserv.c
+cc projserv.c -o projserv
+./projserv 3015
+rm projserv.c
+vi projserv.c
+cc projserv.c -o projserv
+./projserv 3015
+./projserv 4015
+rm projserv.c
+vi projserv.c
+cc projserv.c -o projserv
+./projserv 4015
+rm projserv.c
+vi projserv.c
+cc projserv.c -o projserv
+rm projserv.c
+vi projserv.c
+cc projserv.c -o projserv
+rm projserv.c
+vi projserv.c
+cc projserv.c -o projserv
+rm projserv.c
+vi projserv.c
+cc projserv.c -o projserv
+cd proj
+ls
+./projcli 127.0.0.1 3015
+./projcli 127.0.0.1 4015
+./projcli 127.0.0.1 3015
+./projcli 127.0.0.1 4015
+./projcli 127.0.0.1 3015
+./projcli 127.0.0.1 4015
+./projcli 127.0.0.1 3015
+./projcli 127.0.0.1 4015
+./projcli 127.0.0.1 3015
+./projcli 127.0.0.1 4015
+./projcli 127.0.0.1 3015
+./projcli 127.0.0.1 4015
+./projcli 127.0.0.1 3015
+./projcli 127.0.0.1 4015
+./projcli 127.0.0.1 3015
+./projcli 127.0.0.1 4015
+./projcli 127.0.0.1 3015
+./projcli 127.0.0.1 4015
+./projcli 127.0.0.1 3015
+./projcli 127.0.0.1 4015
+./projcli 127.0.0.1 3015
+./projcli 127.0.0.1 4015
+./projcli 127.0.0.1 3015
+./projcli 127.0.0.1 4015
+./projcli 127.0.0.1 3015
+./projcli 127.0.0.1 4015
+cd proh
+cd proj
+ls
+./projcli 127.0.0.1 3015
+./projcli 127.0.0.1 4015
+./projcli 127.0.0.1 3015
+./projcli 127.0.0.1 4015
+./projcli 127.0.0.1 3015
+./projcli 127.0.0.1 4015
+./projcli 127.0.0.1 3015
+./projcli 127.0.0.1 4015
+./projcli 127.0.0.1 3015
+./projcli 127.0.0.1 4015
+./projcli 127.0.0.1 3015
+./projcli 127.0.0.1 4015
+./projcli 127.0.0.1 3015
+./projcli 127.0.0.1 4015
+./projcli 127.0.0.1 3015
+./projcli 127.0.0.1 4015
+./projcli 127.0.0.1 3015
+./projcli 127.0.0.1 4015
+./projcli 127.0.0.1 3015
+./projcli 127.0.0.1 4015
+./projcli 127.0.0.1 3015
+./projcli 127.0.0.1 4015
+./projcli 127.0.0.1 3015
+./projcli 127.0.0.1 4015
+./projcli 127.0.0.1 3015
+./projcli 127.0.0.1 4015
+cd proj
+./projcli 127.0.0.1 3015
+./projcli 127.0.0.1 4015
+./projcli 127.0.0.1 3015
+./projcli 127.0.0.1 4015
+./projcli 127.0.0.1 3015
+cd proj
+ls
+./projcli 127.0.0.1 3015
+./projcli 127.0.0.1 4015
+./projcli 127.0.0.1 3015
+./projcli 127.0.0.1 4015
+./projcli 127.0.0.1 3015
+ls
+cd proj
+ls
+./projserv 3015
+rm projserv.c
+vi projserv.c
+cc projserv.c -o projserv
+vi projserv.c
+rm projserv.c
+vi projserv.c
+cc projserv.c -o projserv
+./projserv 3015
+rm projserv.c
+vi projserv.c
+cc projserv.c -o projserv
+./projserv 3015
+./projserv 4015
+rm projserv.c
+vi projserv.c
+cc projserv.c -o projserv
+./projserv 4015
+./projserv 3015
+rm projserv.c
+vi projserv.c
+cc projserv.c -o projserv
+./projserv 3015
+./projserv 4015
+clear
+rm projserv.c
+vi projserv.c
+cc projserv.c -o projserv
+./projserv 3015
+rm projserv.c
+vi projserv.c
+cc projserv.c -o projserv
+cat projserv.c
+./projserv 127.0.0.1 3015
+cat projcli.c
+./projcli 127.0.0.1 3015 gaeun
+./projcli 127.0.0.1 3015 gayoung
+cat projserv.c
+./projserv 127.0.0.1 4015
+cat projcli.c
+./projcli 127.0.0.1 4015 gaeun
+./projcli 127.0.0.1 4015 gayoung
+cat projserv.c
+./projserv 127.0.0.1 3015
+cat projcli.c
+./projcli 127.0.0.1 3015 gaeun
+./projcli 127.0.0.1 3015 gayoung
+cat projserv.c
+./projserv 127.0.0.1 3015
+./projserv 127.0.0.1 4015
+./projcli 127.0.0.1 4015 gayoung
+cat projcli.c
+./projcli 127.0.0.1 4015 gaeun
+cat projserv.c
+./projserv 127.0.0.1 4015
